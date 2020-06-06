@@ -14,3 +14,8 @@ Below model were used for this project :
 2. Random Forest Regression.
 3. Random Forest Regression (with Hyperparameter tuning)
 4. XGBoost Regression (with Hyperparameter tuning)
+
+
+Versions
+First version Consists (Multiple Linear Regression, Random Forest Regression)
+Second version Consists (Multiple Linear Regression, Random Forest Regression, Random Forest Regression (with Hyperparameter tuning), XGBoost Regression (with Hyperparameter tuning)) with improved accuracy upto 92~93 %.
