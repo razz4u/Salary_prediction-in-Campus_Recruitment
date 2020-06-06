@@ -17,5 +17,5 @@ Below model were used for this project :
 
 
 Versions
-First version Consists (Multiple Linear Regression, Random Forest Regression)
-Second version Consists (Multiple Linear Regression, Random Forest Regression, Random Forest Regression (with Hyperparameter tuning), XGBoost Regression (with Hyperparameter tuning)) with improved accuracy upto 92~93 %.
+ 1. First version Consists Multiple Linear Regression, Random Forest Regression model.
+ 2. Second version Consists Multiple Linear Regression, Random Forest Regression, Random Forest Regression (with Hyperparameter tuning), XGBoost Regression (with Hyperparameter tuning) model with improved accuracy upto 92~93 %.
